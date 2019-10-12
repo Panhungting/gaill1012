@@ -11,7 +11,6 @@ public class index {
     @ResponseBody
     public String index(){
         return "1234 Spring";
-
     }
 
 }
