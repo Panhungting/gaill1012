@@ -11,6 +11,7 @@ public class GmallUserApplication {
 
     public static void main(String[] args) {
 
+        //12 通用mapper的加入
         //http://user.gmall.com:8080/index1
         SpringApplication.run(GmallUserApplication.class, args);
     }
